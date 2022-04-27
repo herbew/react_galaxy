@@ -1,6 +1,6 @@
 
 #
-# BY HERIBERTUS RUSTYAWAN, herbew@gmail.com 2021
+# BY Herbew
 #
 
 
